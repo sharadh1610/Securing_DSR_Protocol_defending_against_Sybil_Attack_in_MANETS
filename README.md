@@ -25,9 +25,8 @@ Integration: Integrate this verification into the caching process, ensuring mini
 Why It Matters
 Our solution significantly reduces packet drops and improves network reliability by filtering out routes involving Sybil nodes. Simulations using NS-2 show a substantial reduction in packet loss with minimal false positives, enhancing the overall performance of MANETs.
 
-Quick Start
+# Quick Start
 Clone the Repository:
-
 bash
 Copy code
 git clone https://github.com/yourusername/your-repository.git
